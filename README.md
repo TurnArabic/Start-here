@@ -1,5 +1,4 @@
-![cover](https://user-images.githubusercontent.com/113269113/189508458-520c8114-ace2-47e8-bc1a-ee144a62ec2e.png)
-
+![cover2](https://user-images.githubusercontent.com/113269113/189508505-3aa33230-d6e8-4fb7-99a6-7f2733251510.png)
 
 
 **المشروع قيد التجهيز ولم يكتمل بعد**
