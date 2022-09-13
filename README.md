@@ -3,7 +3,7 @@
 
 **المشروع قيد التجهيز ولم يكتمل بعد**
 
-**ملاحظة: You don't need to speak Arabic to contribute to this project. Please keep reading for more details**
+**ملاحظة: You don't have to speak Arabic to contribute to this project. Please keep reading for more details**
 
 # مرحبا!
 هذا المشروع يهدف إلى أن يكون:
